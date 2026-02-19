@@ -64,19 +64,6 @@ I also work with **Microsoft Dynamics 365 Business Central**, helping businesses
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
----
-
-## 🔐 Cybersecurity Focus Areas
-
-- **Penetration Testing** — Web apps, networks, and infrastructure assessments
-- **Vulnerability Assessment** — Identifying and documenting security weaknesses
-- **Security Research** — Exploring emerging threats and attack vectors
-- **Secure Development** — Integrating security into the SDLC from the ground up
-- **OWASP Top 10** — Practical application of security standards in development
-
-
-
-
 *"The quieter you become, the more you are able to hear."* — Kali Linux
 
 **Building secure. Breaking insecure. Repeat. 🔐🚀**
