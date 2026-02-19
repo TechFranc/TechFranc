@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.svg" alt="TechFranc Banner" width="100%"/>
+</div>
+
 # Hey, I'm TechFranc 👋
 
 <div align="center">
@@ -153,3 +157,5 @@ Business Central customizations and integrations connecting ERP systems with web
 **Building secure. Breaking insecure. Repeat. 🔐🚀**
 
 </div>
+
+![banner](https://github.com/user-attachments/assets/380e633d-cd27-4594-a637-39a934bd1164)
