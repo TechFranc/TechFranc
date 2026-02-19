@@ -158,4 +158,4 @@ Business Central customizations and integrations connecting ERP systems with web
 
 </div>
 
-![banner](https://github.com/user-attachments/assets/380e633d-cd27-4594-a637-39a934bd1164)
+
